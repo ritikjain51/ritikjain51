@@ -12,44 +12,52 @@ AI scientist with 4 years of experience in different domains. Currently, Underst
 * 🤝  I'm open to collaborating on interesting machine learning, generative AI, NLP and recommendation projects.
 
 <a href="https://www.github.com/ritikjain51" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ritikjain51?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/ritikjain51" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ritikjain51?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
-### Skills
+src="https://img.shields.io/github/followers/ritikjain51?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<a href="https://www.github.com/ritikjain51" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=ritikjain51&logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
+
+## 💻  Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+
 </p>
 
-### Socials
+## 🌐  Socials
 
-<p align="left"> <a href="https://discord.com/users/ritz#1033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
+<p align="left"> 
+<a href="https://discord.com/users/ritz#1033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;
+<a href="https://www.github.com/ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  &nbsp;
+<a href="https://www.linkedin.com/in/ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp;
+<a href="http://www.medium.com/@ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>  &nbsp;
+<a href="https://www.twitter.com/ritikjain51" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><br/><br/>
+<a href="https://www.twitter.com/ritikjain51" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ritikjain51?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
+</p>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ritikjain51"><img src="https://github-readme-stats.vercel.app/api?username=ritikjain51&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ritikjain51's GitHub stats" /></a>
+## 📊  GitHub Stats
+
+**My GitHub Stats**<br /><br />
+<a href="http://www.github.com/ritikjain51" align="left" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=ritikjain51&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ritikjain51's GitHub stats" /></a>
+
+<a href="https://github.com/ritikjain51" align="right" width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjain51&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=default" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/ritikjain51"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ritikjain51&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ritikjain51" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjain51&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### <b> 🔝  Top Contributed Repo</b>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ritikjain51/markov-chain-attribution" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikjain51&repo=markov-chain-attribution&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ritikjain51/transformers-pytorch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikjain51&repo=transformers-pytorch&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ritikjain51/markov-chain-attribution" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikjain51&repo=markov-chain-attribution&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ritikjain51/transformers-pytorch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikjain51&repo=transformers-pytorch&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/ritikjain51/medium-post-summarizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikjain51&repo=medium-post-summarizer&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ritikjain51/CaptchaExtractor-Pytorch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikjain51&repo=CaptchaExtractor-Pytorch&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br />
 
-
-<br/><br/>
-### Support Me
-
+### 💰  Support Me
 <a href="https://www.buymeacoffee.com/rjain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
