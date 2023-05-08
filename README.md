@@ -4,8 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Data Scientist | Research | Machine Learning | Deep Learning
 -------------------------------------------------------------------
 
-AI scientist with 4 years of experience in different domains. Currently, Understanding business requirements and building scalable data-driven systems at Crux. I have worked on automated time-series forecasting, IRS, OCR, and Video verification. I have built deep tech solutions like Automated Timeseries forecaster for solving domain-agnostic forecasting problems using advanced statistics and machine learning models, OCR (optical character recognition) using semantic segmentation and deep learning for digitising identity proof. IRS (Information Retrieval System) is a domain-specific question-answering system using a siamese network based language model. Used computer vision techniques to build image and video verification solutions for Online-VKYC. I am a big fan of the open-source community and love to contribute to open-source problems, involved in renowned open-source contributions on GitHub.
-
+* 🧑‍🔬 AI scientist with 4 years of experience in different domains
+* 🏢 Currently building scalable data-driven systems at Crux
+* 📈 Worked on automated time-series forecasting, IRS, OCR, and Video verification
+* 🤖 Built automated timeseries forecaster using advanced statistics and machine learning models
+* 📷 Used computer vision techniques for image and video verification solutions for Online-VKYC
+* 📑 Built OCR using semantic segmentation and deep learning for digitising identity proof
+* 💻 Involved in renowned open-source contributions on GitHub
+* 👥 A big fan of the open-source community and love to contribute to open-source problems
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [ritikjain51@gmail.com](mailto:ritikjain51@gmail.com)
 * 🧠  I'm learning about generative AI, reinforcement learning and MLOps
@@ -85,11 +91,6 @@ src="https://komarev.com/ghpvc/?username=ritikjain51&logo=github&style=for-the-b
 <a href="http://www.medium.com/@ritikjain51" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>  &nbsp;
 <a href="https://www.twitter.com/ritikjain51" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><br/><br/>
 <a href="https://www.twitter.com/ritikjain51" target="_blank" rel="noreferrer">
-
-<img
-src="https://img.shields.io/twitter/follow/ritikjain51?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
-</p>
-
 
 
 ## 📊  GitHub Stats
