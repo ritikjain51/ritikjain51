@@ -17,6 +17,9 @@ Senior Data Scientist | Research | Machine Learning | Deep Learning
 * 🧠  I'm learning about generative AI, reinforcement learning and MLOps
 * 🤝  I'm open to collaborating on interesting machine learning, generative AI, NLP and recommendation projects.
 
+# Status
+
+
 <a href="https://www.github.com/ritikjain51" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ritikjain51?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 <a href="https://www.github.com/ritikjain51" target="_blank" rel="noreferrer"><img
@@ -97,7 +100,8 @@ src="https://komarev.com/ghpvc/?username=ritikjain51&logo=github&style=for-the-b
 ## 📊  GitHub Stats
 
 **My GitHub Stats**<br /><br />
-<a href="http://www.github.com/ritikjain51" align="left" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=ritikjain51&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ritikjain51's GitHub stats" /></a>
+<p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikjain51&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/></p>
+<p align="center"><a href="http://www.github.com/ritikjain51" align="left" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=ritikjain51&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ritikjain51's GitHub stats" /></a></p>
 
 <a href="https://github.com/ritikjain51" align="right" width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjain51&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=default" alt="Top Languages" /></a>
 
